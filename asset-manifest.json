@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flowolforg/gh_page_app/static/css/main.073c9b0a.css",
+    "main.js": "/flowolforg/gh_page_app/static/js/main.fb4cdb6f.js",
+    "static/js/787.2337a003.chunk.js": "/flowolforg/gh_page_app/static/js/787.2337a003.chunk.js",
+    "static/media/logo.svg": "/flowolforg/gh_page_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/flowolforg/gh_page_app/index.html",
+    "main.073c9b0a.css.map": "/flowolforg/gh_page_app/static/css/main.073c9b0a.css.map",
+    "main.fb4cdb6f.js.map": "/flowolforg/gh_page_app/static/js/main.fb4cdb6f.js.map",
+    "787.2337a003.chunk.js.map": "/flowolforg/gh_page_app/static/js/787.2337a003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fb4cdb6f.js"
+  ]
+}
